@@ -1,0 +1,16 @@
+name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
+"002Freudenstadt",,,4827.817N,00824.667E,726.0m,1,,,,
+"017Besenfeld",,,4835.633N,00825.167E,782.0m,1,,,,
+"089Schluchsee",,,4748.033N,00811.017E,931.0m,1,,,,
+"106Weidenstetten",,,4833.133N,00959.767E,587.0m,1,,,,
+"022Burladingen",,,4817.400N,00906.767E,721.0m,1,,,,
+"001Musbach",,,4829.883N,00828.817E,691.0m,1,,,,
+-----Related Tasks-----
+"438562","002Freudenstadt","002Freudenstadt","017Besenfeld","089Schluchsee","106Weidenstetten","022Burladingen","001Musbach","001Musbach"
+Options,TaskTime=03:00:00,WpDis=True,MinDis=True,RandomOrder=False,MaxPts=13
+ObsZone=0,Style=2,R1=10000m,Line=1
+ObsZone=1,Style=1,R1=10000m,A1=45,R2=500m,A2=180
+ObsZone=2,Style=1,R1=10000m,A1=45,R2=500m,A2=180
+ObsZone=3,Style=1,R1=10000m,A1=45,R2=500m,A2=180
+ObsZone=4,Style=1,R1=10000m,A1=45,R2=500m,A2=180
+ObsZone=5,Style=3,R1=3000m,A1=180

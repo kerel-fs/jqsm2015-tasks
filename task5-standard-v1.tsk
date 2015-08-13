@@ -1,0 +1,39 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="001Musbach" id="0" comment="" altitude="691.0">
+      <Location longitude="8.4802833" latitude="48.49805"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="064Langenbrand" id="0" comment="" altitude="705.0">
+      <Location longitude="8.6241667" latitude="48.8077833"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="093St. Blasien" id="0" comment="" altitude="771.0">
+      <Location longitude="8.13" latitude="47.76"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="101Ulm West" id="0" comment="" altitude="592.0">
+      <Location longitude="9.9611167" latitude="48.4566667"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="057Hohenzollern" id="0" comment="" altitude="817.0">
+      <Location longitude="8.9666667" latitude="48.3236167"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="001Musbach" id="0" comment="" altitude="691.0">
+      <Location longitude="8.4802833" latitude="48.49805"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="3000.0"/>
+  </Point>
+</Task>
+
